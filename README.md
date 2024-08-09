@@ -1,5 +1,6 @@
 # Sentiment Analysis on Twitter 
 
+During this challenge I had worked with: https://github.com/Babinich, https://github.com/AlexRaudvee, https://github.com/timyuk
 This challenge revolves around the question of how we compare the performance of airlines when they use Twitter as a communication channel. The dataset we are analyzing consists of a large number of tweets from several airlines, and we asked, in a role-playing game, to analyze the data for one of our clients. Our client is one out of several possible airlines, and in this project, the assigned airline is interested in assessing their performance when using Twitter as a communication channel. They are interested in comparing their performance to other airlines in general and an assigned competitor airline in particular. Our airline will be represented by an airline marketeer. The marketeer wonders whether their Twitter team is doing a good job and whether this is useful for the company, particularly in comparison to the competitor airline.
 
 Our client is EasyJet company 
